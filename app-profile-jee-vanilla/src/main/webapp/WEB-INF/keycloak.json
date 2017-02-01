@@ -1,0 +1,8 @@
+{
+  "realm": "mmg",
+  "realm-public-key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA39bvjJGHmwBEu6pW195mF5lrQKcBhv0TZEieVGp3NiKrlWSNRzEjrIUVX5q4xzUh6X0H7nM7GvrTFnHY8F1f0Yh8A6hapyEZW8UZ2eqhC/MJRgj0cwuE0Tttfv9mzJ/qYTuDUniZs+1k8/7ek9pCFbaG8bKo86PyF+Id2XK+H4OAZfv3Ur2GuOlXX0awxH/zAdxXlb3m11qeznam9B6sbHqgTCpjkATuFLImVrmO7syNoxSdOZaQbfZNQ4GWX7lgffhI5Cylz3QrEiPAhIFosJtDbt/qbrTdUF/TgdfplWUHvxHLngDjpLzxox29hHNHKqMDh2a8CJj/IpzVTUIKWwIDAQAB",
+  "auth-server-url": "https://secure-sso-rh-sso.cloud.213.95.200.76.xip.io/auth",
+  "ssl-required": "external",
+  "resource": "eap-app",
+  "public-client": true
+}
